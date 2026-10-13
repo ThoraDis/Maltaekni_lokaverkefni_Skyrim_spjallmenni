@@ -1,0 +1,1329 @@
+Who is the dragonborn?
+Bútur 1: name:Skyrim_Bard.md - the_dragonborn_comes: Listen to a sample (FemaleEvenToned)
+
+Our hero, our hero, claims a warrior's heart.  
+I tell you, I tell you, the Dragonborn comes.  
+With a Voice wielding power of the ancient Nord art.  
+Believe, believe, the Dragonborn comes.  
+It's an end to the evil, of all Skyrim's foes.  
+Beware, beware, the Dragonborn comes.  
+For the darkness has passed, and the legend yet grows.  
+You'll know, You'll know the Dragonborn's come.
+Bútur 2: name:Skyrim_Bardic_Performances.md - the_dragonborn_comes: Listen to a sample (FemaleEvenToned)
+
+Our hero, our hero, claims a warrior's heart.  
+I tell you, I tell you, the Dragonborn comes.  
+With a Voice wielding power of the ancient Nord art.  
+Believe, believe, the Dragonborn comes.  
+It's an end to the evil, of all Skyrim's foes.  
+Beware, beware, the Dragonborn comes.  
+For the darkness has passed, and the legend yet grows.  
+You'll know, You'll know the Dragonborn's come.
+Bútur 3: name:Skyrim_Dovahkiin.md - ##_skyrim:_dovahkiin: Dragonborn as depicted on Alduin's Wall
+
+A Dragonborn or Dovahkiin is a mortal man or woman born with the blood and soul of a dragon, or what the dragons would call "Dovah Sos" (dragonblood).[1] It enables them to use the dragon's ability to absorb a slain dragon's soul to receive knowledge of the Thu'um, rather than having to learn through practice.[2] You are a Dragonborn in Skyrim. 
+
+St. Alessia was the first person to be associated with the title Dragonborn.[3] She is believed to have gained the blood of a dragon after making a covenant with Akatosh to seal the Gates of Oblivion. Since then, there have been many tales of heroes of the dragons' blood who would "kill dragons and steal their power". The ability to absorb dragon souls came first to the dragon priest Miraak. Afterwards, all known Dragonborn could learn powerful shouts much quicker than other mortals, who require years of meditation to master them. The monks known as the Greybeards of High Hrothgar become masters of the Way of the Voice under the leadership of Paarthurnax, taking in those willing to learn and guiding Dragonborn to their full potential. 
+
+Tiber Septim, the first of the Septim Emperors, and Reman Cyrodiil were Dragonborn, and it was believed, through the Amulet of Kings, that all of the heirs of the Septim and Reman Dynasties possessed "dragon blood". Wulfharth has also been said to be Dragonborn[4] and shares the title of "Ysmir" with Tiber Septim and the Last Dragonborn, however this title seems to be applied more to great kings in Skyrim's history.[5]
+Svar: The Dragonborn is a mortal man or woman born with the blood and soul of a dragon, or what the dragons would call "Dovah Sos" (dragonblood).
+Who is Vilkas?
+Bútur 1: name:Skyrim_Purity_of_Revenge.md - revenge_served_cold: After the death of Kodlak Whitemane, Vilkas is looking for revenge. He wants to go after the Silver Hand for the attack on Jorrvaskr and the further affront of stealing the fragments of Wuuthrad. With no questions asked, Vilkas will then act as your follower all the way to the Silver Hand hideout at Driftshade Refuge, a small fort southeast of Dawnstar. Upon arrival at the fort, dispose of the two Silver Hand members outside, a guard at the entrance and an archer on the roof, then head inside.
+Bútur 2: name:Skyrim_Vilkas.md - ##_skyrim:_vilkas: Vilkas  
+(RefID: 0001A695)  
+  
+Home City  :  Whiterun  
+Location  :  Jorrvaskr  
+Race  :  Nord  |  Gender  :  Male    
+Level  :  PC×1 (range=8-50)   |  Class  :  Warrior   
+RefID :  0001A695  |  BaseID :  0001A694   
+Services   
+Training :    
+Other Information   
+Health :  50+(PC-1)×11.7   
+Magicka :  50   
+Stamina :  50+(PC-1)×3.3   
+Primary Skills :  Heavy Armor , Two-handed , Archery, Block  
+Perks  :  None   
+Class Details  :  TrainerTwoHandedMaster  
+Morality :  No Crime   |  Aggression :  Aggressive    
+Essential :  Yes, until Glory of the Dead is completed   
+Marry :  Yes   |  Follower :  Yes    
+StewardHF :  Yes   
+Voice Type  :  MaleNord  
+Faction(s) :  CompanionsCirclePlusKodlak; CompanionsCircle; CompanionsFactionMinusBrillAndVignar; GuardFaction; PotentialFollowerFaction; PotentialMarriageFaction; The Companions 0(Cohort); TownWhiterunFaction; Two-Handed Trainer; WIAdditem03ExclusionFaction  
+  
+Vilkas
+
+Vilkas is a Nord warrior and a werewolf, usually found within Jorrvaskr in Whiterun. He is a member of the Circle, a faction within the Companions, alongside his twin brother Farkas. Vilkas is a master trainer in the Two-handed skill. When the Companions questline is complete, he becomes a potential follower and marriage candidate. 
+
+Vilkas's outfit consists of a set of wolf armor, with matching gauntlets and boots, but minus the helmet. He also carries around a banded iron shield and his sword. He is usually found around Jorrvaskr. However, if he becomes recruited as a Blade, he will then reside in Sky Haven Temple.
+Bútur 3: name:Skyrim_Purity_of_Revenge.md - quick_walkthrough: 1. With Vilkas as a shield brother, infiltrate the Silver Hand's refuge.
+  2. Retrieve the Fragments of Wuuthrad.
+  3. (Optional) Wipe out the Silver Hand.
+  4. Return to Jorrvaskr.
+Svar: Based on the provided context, Vilkas is described as:
+
+1. A Nord warrior and werewolf who is a member of the Circle, a faction within the Companions.
+2. A master trainer in the Two-handed skill.
+3. A potential follower and marriage candidate upon completing the Companions questline.
+4. His outfit consists of a set of wolf armor, matching gauntlets, boots, and a banded iron shield.
+5. He carries around a sword.
+6. He is typically found around Jorrvaskr.
+
+The context provides additional details about his role and status within the story, including his potential marriage candidacy once the questline is completed.
+How do you join the dark brotherhood?
+Bútur 1: name:Skyrim_Astrid.md - related_quests: * Destroy the Dark Brotherhood! : Finish the Dark Brotherhood and rid Skyrim of their kind.
+  * With Friends Like These... : Repay your debt to the Family, and show you are willing to kill on command.
+  * Sanctuary : Pick up your first contracts as a Brotherhood member.
+  * Mourning Never Comes : Help Muiri get her revenge.
+  * Whispers in the Dark : Spy on the Night Mother's keeper to see if he is planning sabotage against the Brotherhood.
+  * The Silence Has Been Broken : Meet Amaund Motierre inside Volunruud and learn who he wants assassinated.
+  * Bound Until Death : Assassinate Vittoria Vici at her own wedding.
+  * Breaching Security : Kill and frame the son of a high-ranking Imperial guard.
+  * The Cure for Madness : Confront the traitor among the Dark Brotherhood.
+  * Recipe for Disaster : Assume the identity of the famous Gourmet in an effort to assassinate the Emperor.
+  * To Kill an Empire : Attempt to assassinate the Emperor while disguised as the Gourmet.
+  * Death Incarnate : Assist Brotherhood members in the fight against the Penitus Oculatus assault.
+Bútur 2: name:Skyrim_With_Friends_Like_These.md - quick_walkthrough: 1. (Optional) Receive a mysterious note from a courier.
+  2. Go to sleep.
+  3. Kill a captive or the Dark Brotherhood's leader.
+  4. Choose to join or destroy the Dark Brotherhood.
+Bútur 3: name:Skyrim_Destroy_the_Dark_Brotherhood.md - rewards_and_consequences: Return to Commander Maro in Dragon Bridge, and he will be overjoyed and reward you with 3,000 gold, regardless of your level. He will also make sure that the Emperor himself hears of your accomplishments. The quest also yields a good amount of valuable loot that you'd normally only be able to obtain by joining the Dark Brotherhood. All parts of the Dark Brotherhood Sanctuary near Falkreath will remain accessible and undamaged, as opposed to finishing the Dark Brotherhood questline, where a good chunk of it is destroyed. 
+
+Destroying the Dark Brotherhood makes a number of rewards unavailable, namely Shadowmere, a minimum of 20,000 gold, the Summon Spectral Assassin power, access to the Dawnstar Sanctuary, the ability to marry Muiri, the never-dying Dark Brotherhood Initiate followers, the Master trainers for Alchemy and Light Armor, Ancient Shrouded Armor, and Cicero's outfit and offer of being a follower.
+Svar: To join the Dark Brotherhood, one must complete the quests "Destroy the Dark Brotherhood!" and "With Friends Like These...", which include repaying debts, killing the family members, and completing other tasks such as spying on guards and assassinating individuals within the Dark Brotherhood. Once completed, players can gain access to various rewards including Shadowmere, a minimum of 20, 000 gold, the Summon Spectral Assassin power, access to the Dawnstar Sanctuary, marriage to Muiri, access to the master trainers for Alchemy and Light Armor, Ancient Shrouded Armor, and Cicero's outfit and offer of being a follower. This quest line is particularly challenging, requiring players to navigate through the Dark Brotherhood Sanctuary and complete multiple tasks before reaching the final goal of destroying the Dark Brotherhood.
+How do i start the quest “Alduins wall”?
+Bútur 1: name:Skyrim_Alduins_Wall.md - quick_walkthrough: 1. Escort Esbern to Riverwood.
+  2. Talk to Esbern.
+  3. Gain entrance to Sky Haven Temple.
+  4. Learn the secret of Alduin's Wall.
+Bútur 2: name:Skyrim_Alduins_Wall.md - contents: * 1 Quick Walkthrough
+  * 2 Detailed Walkthrough
+    * 2.1 Blades Reunited
+    * 2.2 The Karthspire
+    * 2.3 Sky Haven Temple
+    * 2.4 Achievements
+  * 3 Notes
+  * 4 Bugs
+  * 5 Quest Stages
+
+|  |  |  | Locate the prophecy withinSky Haven Temple.  
+:   
+Quest Giver:  :  Esbern  
+:   
+Location(s):  :  The Ratway, Riverwood, Sky Haven Temple  
+Prerequisite Quest:  :  A Cornered Rat  
+Next Quest:  :  The Throat of the World  
+Reward:  :  Dragonbane  
+ID:  :  MQ203   
+:   Alduin's Wall
+Bútur 3: name:Skyrim_Alduins_Wall.md - detailed_walkthrough: 
+Svar: To start the quest "Alduin's Wall", you need to follow these steps:
+
+1. **Escort Esbern** to Riverwood (Quick Walkthrough)
+2. **Talk to Esbern** (Detailed Walkthrough)
+3. **Gain Entrance to Sky Haven Temple** (Detailed Walkthrough)
+4. **Learn the secret of Alduin's Wall** (Detailed Walkthrough)
+
+By following these steps in the correct order and completing each step as described, you will progress towards the quest objectives.
+Who is the leader of the stormcloaks?
+Bútur 1: name:Skyrim_Stormcloak_General.md - ##_skyrim:_stormcloak_general: This article could benefit from an image.  
+See Help:Images for information on how to upload images. Please remove this template from the page when finished.  
+  
+Stormcloak General   
+  
+Race  :  Nord  |  Gender  :  Radiant    
+Level  :  PC×0.25 (max=50)   |  Class  :  Soldier   
+RefID :  N/A   |  BaseID :  000559df   
+Other Information   
+Health :  50-442  
+Magicka :  50   
+Stamina :  50-393  
+Morality :  No Crime   |  Aggression :  Aggressive    
+Respawns  :  Yes   
+Faction(s) :  CWDialogueSoldierFaction; Sons of Skyrim; NPC faction  
+  
+Stormcloak Generals are generic Stormcloak officers which appear during various Civil War quests. 
+
+ThisSkyrim-related article is a stub. You can help by .
+Bútur 2: name:Skyrim_Compelling_Tribute_Stormcloaks.md - contents: * 1 Quick Walkthrough
+  * 2 Detailed Walkthrough
+    * 2.1 Blackmail
+    * 2.2 Ambush
+  * 3 Notes
+  * 4 Bugs
+  * 5 Quest Stages
+
+|  |  |  | Blackmail aTalos worshipper into helping the Stormcloaks.  
+:   
+Quest Giver:  :  Galmar Stone-Fist  
+:   
+Location(s):  :  Markarth, Reach Stormcloak Camp  
+Prerequisite Quest:  :  Rescue from Fort Neugrad  
+Next Quest:  :  The Battle for Fort Sungard  
+Reward:  :  Leveled gold and access to the loot in the wagon   
+ID:  :  CWMission07   
+:
+Bútur 3: name:Skyrim_Joining_the_Stormcloaks.md - contents: * 1 Quick Walkthrough
+  * 2 Detailed Walkthrough
+    * 2.1 Joining
+    * 2.2 Test Your Mettle
+    * 2.3 The Victorious Return
+    * 2.4 Reward
+    * 2.5 Achievements
+  * 3 Notes
+  * 4 Bugs
+  * 5 Quest Stages
+
+|  |  |  | Prove yourself worthy of being aStormcloak rebel.  
+:   
+Quest Giver:  :  Ulfric Stormcloak in Windhelm   
+:   
+Location(s):  :  Windhelm, Serpentstone Isle  
+Next Quest:  :  The Jagged Crown  
+Reward:  :  Stormcloak membership, Fur Boots, Fur Gauntlets, Hide Helmet, Stormcloak Cuirass   
+ID:  :  CW01B   
+Suggested Level:  :  6   
+:   Test your mettle, kill an Ice Wraith!
+Svar: Based on the provided context, the leader of the Stormcloaks is the General Skyrim Stormcloak. In the article titled "Stormcloak Generals," it states that these are "generic Stormcloak officers which appear during various Civil War quests." Therefore, the General Skyrim Stormcloak serves as the primary leader among the Stormcloaks.
+What ingredient combination can create an invisibility potion?
+Bútur 1: name:Skyrim_Invisibility_effect.md - alchemy: The following alchemy ingredients can be used to create a potion of Invisibility: 
+
+  * Aloe Vera LeavesCC
+  * Ash Creep ClusterDB
+  * Bittergreen PetalsCC (1.5 ×,1.56 ×)
+  * Blister Pod CapCC (1.5 ×,1.56 ×)
+  * BloodgrassCC
+  * Chaurus Eggs
+  * Crimson Nirnroot
+  * Daedra SilkCC (1.5 ×,1.56 ×)
+  * Elytra IchorCC (1.5 ×,1.56 ×)
+  * Flame StalkCC (1.5 ×,1.56 ×)
+  * GlassfishCC
+  * Green Butterfly WingCC
+  * Ice Wraith Teeth
+  * Luna Moth Wing
+  * Nirnroot
+  * Redwort FlowerCC (1.5 ×,1.56 ×)
+  * Screaming MawCC (0.25 ×,0.22 ×)
+  * Vampire Dust (1st effect)
+Bútur 2: name:Skyrim_Potion_of_Extended_Invisibility.md - special_potions: These potions are unusual for the reasons noted. Many are quest-related. 
+
+| Name (ID)  |  |  | Effect  | Notes   
+|||||  
+:  Disguised Invisibility PotionCC  
+(xx000bb7) :  0.5  |  334  :  Invisibility for 30 seconds: 
+
+  * Invisibility, for 30 secs
+
+:  Can only be obtained during the quest Clear-HeadedCC. Since this potion is marked as a quest item, it is not possible to drink it.   
+:  Elixir of Resist Magic  
+(00039e55) :  0.5  |  247  :  Resist 25% of magic for 60 seconds: 
+
+  * Resist Magic, 25 pts for 60 secs
+
+:  No guaranteed bottles or other known sources   
+:  Falmer Blood Elixir  
+(00076f17) :  0.5  |  1  :  Heals the caster 1 points: 
+
+  * Restore Health, 1 pt
+
+:  
+
+  * Peddled by Brynjolf during the quest A Chance Arrangement
+  * Cannot normally be sold to apothecary merchants
+  * 1 sample found in Haelga's Bunkhouse
+
+  
+:  Ice Wraith Essence  
+(000f9642) :  0.5  |  96  :  Resist 20% of frost damage for 60 seconds: 
+
+  * Resist Frost, 20 pts for 60 secs
+
+:  Dropped by Ice Wraiths  
+:  Kordir's Skooma  [sic]  
+(00057a7b) :  0.5  |  20  :  Restore 25 Stamina: 
+
+  * Restore Stamina, 25 pts
+
+:  
+
+  * Cannot be obtained
+  * Cannot normally be sold to apothecary merchants
+
+  
+:  Philter of the Phantom  
+(000663e1) :  0.5  |  50  :  Appear spectral for 30 seconds 
+
+  * Ghostveil, 30 seconds
+
+:  
+
+  * 2 found in Shroud Hearth Barrow on the body of Wyndelius Gatharian
+  * Cannot normally be sold to apothecary merchants
+
+  
+:  Potion of BloodDG  
+(xx018ef3) :  0.5  |  75  :  Equivalent to feeding on human blood for vampires; Vampires heal 100 points of Health: 
+
+  * Blood Ingestion
+  * Restore Health, 100 pts (if playing as a vampire)
+
+Vampires restore 380 points of Hunger.CC
+
+  * Restore Hunger, 380 pts (if playing as a vampire and Survival Mode is active)
+
+:  
+
+  * Found in Volkihar Keep (respawns)
+  * 3 can found in Bloodchill Manor
+  * Generally 3 are given as a reward for most of the Volkihar side quests
+  * Cannot normally be sold to apothecary merchants
+
+  
+:  Soul Husk ExtractDG  
+(xx015a1e) :  0.5  |  254  :  Resist 25% of magic for 60 seconds; Interrupts the soul drain effect in the Soul Cairn: 
+
+  * Resist Magic, 25 pts for 60 secs
+  * Protect Soul, 1 pt for 60 secs
+
+:  
+
+  * 4 guaranteed samples found inside Boneyard
+  * After completing Beyond Death and leaving the Soul Cairn, if you return to her, Valerica will offer to create one additional potion for every five Soul Husks you bring her. She will no longer offer to do so after returning to her study.
+
+  
+:  Stallion's Potion  
+(0005566a) :  0.5  |  341  :  Stamina is increased by 20 points for 300 seconds: 
+
+  * Fortify Stamina, 20 pts for 300 secs
+
+:  
+
+  * 1 bottle found in The Hag's Cure (Markarth)
+  * Also part of the quest Bothela's Discreet Delivery
+
+  
+:  Unknown Potion  
+(0005661f) :  0.5  |  0  :   
+
+  * Unknown Effect
+
+:  This is the potion that appears while you are mixing potions and you don't know what effect it will have yet. It cannot be acquired in-game.   
+:  Vaermina's Torpor  
+(0005f6df) | 0.5 | 0  | Enter "The Dreamstride" for an unknown length of time | Used in the quest Waking Nightmare  
+:  The White Phial (Full)  
+(00102019)  
+(0010201a)  
+(0010201b)  
+(0010201c)  
+(0010201d)  
+(0010201e) :  0.5  |  193  :  Resist 20% of magic for 60 seconds: 
+
+  * Resist Magic, 20 pts for 60 secs
+
+:  Cannot normally be sold to apothecary merchants   
+0.5 | 341  | Stamina is increased by 20 points for 300 seconds:
+
+  * Fortify Stamina, 20 pts for 300 secs
+
+  
+0.5 | 96  | You are 20% harder to detect for 60 seconds:
+
+  * Fortify Sneak, 20 pts for 60 secs
+
+  
+0.5 | 341  | Magicka is increased by 20 points for 300 seconds:
+
+  * Fortify Magicka, 20 pts for 300 secs
+
+  
+0.5 | 265  | One-handed weapons do 50% more damage for 60 seconds:
+
+  * Fortify One-handed, 50 pts for 60 secs
+
+  
+0.5 | 79  | Restore 100 points of Health:
+
+  * Restore Health, 100 pts
+Bútur 3: name:Skyrim_Potion_of_Brief_Invisibility.md - special_potions: These potions are unusual for the reasons noted. Many are quest-related. 
+
+| Name (ID)  |  |  | Effect  | Notes   
+|||||  
+:  Disguised Invisibility PotionCC  
+(xx000bb7) :  0.5  |  334  :  Invisibility for 30 seconds: 
+
+  * Invisibility, for 30 secs
+
+:  Can only be obtained during the quest Clear-HeadedCC. Since this potion is marked as a quest item, it is not possible to drink it.   
+:  Elixir of Resist Magic  
+(00039e55) :  0.5  |  247  :  Resist 25% of magic for 60 seconds: 
+
+  * Resist Magic, 25 pts for 60 secs
+
+:  No guaranteed bottles or other known sources   
+:  Falmer Blood Elixir  
+(00076f17) :  0.5  |  1  :  Heals the caster 1 points: 
+
+  * Restore Health, 1 pt
+
+:  
+
+  * Peddled by Brynjolf during the quest A Chance Arrangement
+  * Cannot normally be sold to apothecary merchants
+  * 1 sample found in Haelga's Bunkhouse
+
+  
+:  Ice Wraith Essence  
+(000f9642) :  0.5  |  96  :  Resist 20% of frost damage for 60 seconds: 
+
+  * Resist Frost, 20 pts for 60 secs
+
+:  Dropped by Ice Wraiths  
+:  Kordir's Skooma  [sic]  
+(00057a7b) :  0.5  |  20  :  Restore 25 Stamina: 
+
+  * Restore Stamina, 25 pts
+
+:  
+
+  * Cannot be obtained
+  * Cannot normally be sold to apothecary merchants
+
+  
+:  Philter of the Phantom  
+(000663e1) :  0.5  |  50  :  Appear spectral for 30 seconds 
+
+  * Ghostveil, 30 seconds
+
+:  
+
+  * 2 found in Shroud Hearth Barrow on the body of Wyndelius Gatharian
+  * Cannot normally be sold to apothecary merchants
+
+  
+:  Potion of BloodDG  
+(xx018ef3) :  0.5  |  75  :  Equivalent to feeding on human blood for vampires; Vampires heal 100 points of Health: 
+
+  * Blood Ingestion
+  * Restore Health, 100 pts (if playing as a vampire)
+
+Vampires restore 380 points of Hunger.CC
+
+  * Restore Hunger, 380 pts (if playing as a vampire and Survival Mode is active)
+
+:  
+
+  * Found in Volkihar Keep (respawns)
+  * 3 can found in Bloodchill Manor
+  * Generally 3 are given as a reward for most of the Volkihar side quests
+  * Cannot normally be sold to apothecary merchants
+
+  
+:  Soul Husk ExtractDG  
+(xx015a1e) :  0.5  |  254  :  Resist 25% of magic for 60 seconds; Interrupts the soul drain effect in the Soul Cairn: 
+
+  * Resist Magic, 25 pts for 60 secs
+  * Protect Soul, 1 pt for 60 secs
+
+:  
+
+  * 4 guaranteed samples found inside Boneyard
+  * After completing Beyond Death and leaving the Soul Cairn, if you return to her, Valerica will offer to create one additional potion for every five Soul Husks you bring her. She will no longer offer to do so after returning to her study.
+
+  
+:  Stallion's Potion  
+(0005566a) :  0.5  |  341  :  Stamina is increased by 20 points for 300 seconds: 
+
+  * Fortify Stamina, 20 pts for 300 secs
+
+:  
+
+  * 1 bottle found in The Hag's Cure (Markarth)
+  * Also part of the quest Bothela's Discreet Delivery
+
+  
+:  Unknown Potion  
+(0005661f) :  0.5  |  0  :   
+
+  * Unknown Effect
+
+:  This is the potion that appears while you are mixing potions and you don't know what effect it will have yet. It cannot be acquired in-game.   
+:  Vaermina's Torpor  
+(0005f6df) | 0.5 | 0  | Enter "The Dreamstride" for an unknown length of time | Used in the quest Waking Nightmare  
+:  The White Phial (Full)  
+(00102019)  
+(0010201a)  
+(0010201b)  
+(0010201c)  
+(0010201d)  
+(0010201e) :  0.5  |  193  :  Resist 20% of magic for 60 seconds: 
+
+  * Resist Magic, 20 pts for 60 secs
+
+:  Cannot normally be sold to apothecary merchants   
+0.5 | 341  | Stamina is increased by 20 points for 300 seconds:
+
+  * Fortify Stamina, 20 pts for 300 secs
+
+  
+0.5 | 96  | You are 20% harder to detect for 60 seconds:
+
+  * Fortify Sneak, 20 pts for 60 secs
+
+  
+0.5 | 341  | Magicka is increased by 20 points for 300 seconds:
+
+  * Fortify Magicka, 20 pts for 300 secs
+
+  
+0.5 | 265  | One-handed weapons do 50% more damage for 60 seconds:
+
+  * Fortify One-handed, 50 pts for 60 secs
+
+  
+0.5 | 79  | Restore 100 points of Health:
+
+  * Restore Health, 100 pts
+Svar: To create an invisibility potion, you need a combination of ingredients that effectively obscure your movements and senses. The key ingredients include:
+
+1. **Aloe Vera Leaves**: This ingredient creates a protective barrier around your body, making it difficult to see or feel.
+2. **Bittergreen Petals**: These petals act as a cooling agent, helping to reduce heat and discomfort.
+3. **Bloodgrass**: This grass provides nutrients that help maintain health and endurance.
+4. **Cherus Eggs**: These eggs add a layer of protection and enhance your ability to withstand physical impacts.
+5. **Redwort Flower**: This flower reduces visibility through its coloration.
+6. **Iris Ichor**: This liquid absorbs light, reducing your visibility.
+7. **Nirnroot**: This root protects
+Which shout is learned from the Greybeards during “The Way of the Voice”? 
+Bútur 1: name:Skyrim_Farengar_SecretFire.md - the_way_of_the_voice: He can be asked questions: 
+
+    What do you know about Shouts?
+    "Well, I only know what I've heard in the old tales. Shouting is an ancient form of magic - the use of one's voice to project their power. If you can Shout, you need to go see the Greybeards. They'll know what to do."
+
+    What's it mean to be Dragonborn?
+    "I don't know much. Only the old tales about the ancient heroes who would use the Voice to defeat the enemies of Skyrim. They say the Emperors used to be Dragonborn, but that all ended when Martin died during the Oblivion Crisis. The Greybeards can tell you much more than I can. They're the masters of the Way of the Voice and taught Tiber Septim himself."
+Bútur 2: name:Skyrim_The_Way_of_the_Voice_achievement.md - the_greybeards: High Hrothgar
+
+After finally arriving at High Hrothgar, you'll be greeted by Master Arngeir, who speaks to you on behalf of the other Greybeards (whose voices are too powerful for conversation). After proving you are the Dragonborn by using the Unrelenting Force shout, they welcome you to their monastery and instruct you on how to use the dragon shouts, or Thu'um. 
+
+To further your training in the ways of the Thu'um, you will be taught the second word to the Unrelenting Force shout, Ro , and asked to practice it three times on ethereal targets that the Greybeards summon. Arngeir comments on how quickly you learn, then takes you outside for the next lesson. They teach you another word for Whirlwind Sprint. You'll be asked to practice it by using the shout to get through the gate Master Borri opens before it closes. When you're finished, Arngeir will send you on the last test: retrieving the Horn of Jurgen Windcaller.
+Bútur 3: name:Skyrim_The_Way_of_the_Voice_achievement.md - quest_stages: The Way of the Voice (MQ105)  
+  
+Stage | Finishes Quest | Journal Entry  
+8| |  Objective 10: Speak to the Greybeards  
+10| | The Greybeards have summoned me to their monastery of High Hrothgar on the slopes of the Throat of the World. They seem to have learned of the mysterious power that I gained when I killed the dragon outside Whiterun. Objective 10: Speak to the Greybeards  
+30| | The Greybeards summoned me to their monastery of High Hrothgar on the slopes of the Throat of the World. I spoke to Arngeir, one of the Greybeards, who believes that I am "Dragonborn", which means I am especially gifted in the use of the Voice. They have offered to help me learn to use my new abilities. Objective 20: Demonstrate your "Unrelenting Force" Shout  
+50| |  Objective 25: Speak to Arngeir  
+58| |  Objective 30: Learn the Word of Power from Einarth  
+80| |  Objective 40: Demonstrate your "Unrelenting Force" Shout (<Global=MQ105TargetsHit>/3)  
+100| |  Objective 50: Learn the Word of Power from Borri  
+120| |  Objective 60: Demonstrate your "Whirlwind Sprint" Shout  
+140| |  Objective 70: Speak to Arngeir for further training  
+160| Finishes quest| The Greybeards summoned me to their monastery of High Hrothgar on the slopes of the Throat of the World. Their leader, Arngeir, recognized me as "Dragonborn", and taught me more about my new Voice powers. After passing several tests, they sent me on one final trial, retrieving the legendary Horn of Jurgen Windcaller.  
+  
+  * The following empty quest stages were omitted from the table: 0, 1, 5, 12, 15, 20, 25, 55, 56, 59, 60, 70, 75, 76, 82, 85, 90, 103, 105, 110, 115, 125, 127, 130, 150, 180, 190, 200, 220, 240, 242, 245, 250, 255, 260, 265, 270, 280, 282, 284, 288, 290, 300.
+
+Notes
+
+  * Any text displayed in angle brackets (e.g., `<Alias=LocationHold>`) is dynamically set by the Radiant Quest system, and will be filled in with the appropriate word(s) when seen in game.
+  * Not all Journal Entries may appear in your journal; which entries appear and which entries do not depends on the manner in which the quest is done.
+  * Stages are not always in order of progress. This is usually the case with quests that have multiple possible outcomes or quests where certain tasks may be done in any order. Some stages may therefore repeat objectives seen in other stages.
+  * If an entry is marked as "Finishes Quest" it means the quest disappears from the Active Quest list, but you may still receive new entries for that quest.
+  * On the PC, it is possible to use the console to advance through the quest by entering `setstage MQ105 stage`, where `stage` is the number of the stage you wish to complete. It is not possible to un-complete (i.e. go back) quest stages, but it is possible to clear all stages of the quest using `resetquest MQ105`.
+
+Prev: Dragon Rising | Up: Main Quest | Next: The Horn of Jurgen Windcaller  
+||
+Svar: Based on the provided context, the person learns the phrase "Ro" from the Greybeards during the "Way of the Voice". Specifically, this occurs when they are asked to practice the "Unrelenting Force" shout. The text states:
+
+"To further your training in the ways of the Thu'um, you will be taught the second word to the Unrelenting Force shout, Ro, and asked to practice it three times on ethereal targets that the Greybeards summon."
+
+This matches exactly with the instruction given in the first context about being taught the "Ro" word after successfully using the "Unrelenting Force" shout.
+
+Who is the leader of the thieves guild?
+Bútur 1: name:Skyrim_Thieves_Guild_faction.md - ##_skyrim:_thieves_guild_(faction): This page or parts of this page were previously transcluded from lore pages perthis discussion.  
+This page should be checked for potential unrelated lore and other information. Please remove this banner when the page has been cleaned up.  
+  
+  
+The Ragged Flagon, headquarters of the Thieves Guild
+
+The Thieves Guild is dedicated to the gathering and training of those who are stealthy and shadowy in nature. Although criminal by its very definition, for untold years, local authorities in places throughout Tamriel have tolerated the existence of the guild for its role as "crime regulator", as it does not tolerate competition or egregious conduct from its members (not to mention the personal financial benefits for authorities who play nice). It is usually considered to be a distinctly Imperial entity, though of course other organizations of the Empire do not officially condone their actions. 
+
+Like any trade guild, the Thieves Guild is an organization of professionals, except that in this case the professionals are burglars, robbers, pickpockets, smugglers and other enterprising operators. They typically don't have public guild halls but sometimes have safe-houses and members tend to gather at a single location in large towns, such as at a cornerclub, inn or tavern. Typically, members are bound not to rob each other, kill anyone while thieving or rob the poor. The Thieves Guild usually has the resources to bribe officials, establish a black market of stolen goods and maintain a network of informants. For historical information, see the Lore article. 
+
+Based in the city of Riften, the Thieves Guild's headquarters can be initially accessed through the Ratway, a network of tunnels that run under the city.
+Bútur 2: name:Skyrim_Thieves_Guild_faction.md - primary_quests: The primary Thieves Guild questline consists of twelve quests. Three achievements (50 points; 2 Bronze and 1 Silver) are unlocked by the guild's quests. 
+
+  * A Chance Arrangement : Help teach a merchant to mind his own business.
+  * Taking Care of Business : Collect some debts for the Thieves Guild. ( 10 pts/Bronze)
+  * Loud and Clear : Send a message to a former Thieves Guild client.
+  * Dampened Spirits : Put Maven Black-Briar's competition out of business. †
+  * Scoundrel's Folly : Squeeze a reluctant informer for information. †
+  * Speaking With Silence : Track down the Dunmer behind the Guild's misfortunes.
+  * Hard Answers : Help translate Gallus's journal. †
+  * The Pursuit : Break into Mercer Frey's house and search for clues.
+  * Trinity Restored : Become one of the Nightingales, Nocturnal's guardians.
+  * Blindsighted : Stop Mercer Frey.
+  * Darkness Returns : Walk the Pilgrim's Path and return the Skeleton Key to its rightful place. ( 10 pts/Bronze)
+  * Under New Management : Become the Guild Master of the Thieves Guild. ( 30 pts/Silver)
+Bútur 3: name:Skyrim_Under_New_Management.md - improving_the_thieves_guild: Note: This section only describes prerequisites for this quest. The quest will not begin until you complete all prerequisites.
+
+In order to restore the Thieves Guild to its former glory and assume the title of Guild Master, you must perform small jobs in four holds of Skyrim: Haafingar, the Reach, Whiterun, and Eastmarch. To get an improvement job, talk to Delvin Mallory or Vex; you can have one quest active from each. Once you have completed five jobs in a particular hold (except the Rift, where the Guild already has influence), Delvin will offer you a special "reputation" job to increase the Thieves Guild's influence there. You may start taking these jobs at any time after officially joining the guild (completing Taking Care of Business). Completing all four reputation jobs is a prerequisite to becoming the Guild Master. 
+
+You are assigned targets at random, without regard to the number of jobs that you've already taken in a particular hold. You can check your Quests log to review how many jobs you've completed per hold. You can accept and quit the jobs at will, which can be used to your advantage if you are assigned jobs in holds that you have already completed, and if you wish to increase your efficiency by matching two jobs to the same hold. If one of Vex's jobs will take place in the same hold as Delvin's, such as a sweep job and a bedlam job both in Eastmarch, then the value of the objects assigned to be stolen in Vex's jobs also applies to targets in Delvins's Bedlam jobs, and both can be completed together. This is an easy way to steal two birds with one... theft. However, there are fewer jobs offered in the Reach (Markarth) than in the other three holds, so it's best to take any job there that you can get. All failed jobs will be listed in the completed quests list. 
+
+For each reputation job that you complete, the Thieves Guild's headquarters is incrementally improved. Each successful completion adds a merchant to the Ragged Flagon, and completing the third and fourth jobs adds recruits to the guild. Completing these jobs also increases the gold available to all of your fences up to a maximum of 4,000. In addition, gradual cosmetic improvements occur in the Ragged Flagon - Cistern; a carpet will be placed in the center platform in the middle of the room, and banners of the Thieves Guild will be emblazoned on the walls. Also, when you are arrested in a hold over which the Thieves Guild has influence, you will be given an option to bribe guards even if you don't have the Bribery skill perk. 
+
+The four "reputation" quests are activated when the quota is reached for jobs in a given hold: 
+
+Hold  :  Quest   
+:   
+Whiterun :  Imitation Amnesty : Help get a convicted prisoner released from jail.   
+The Reach :  Silver Lining : Recover a stolen silver mold for a silversmith.   
+Eastmarch :  Summerset Shadows : Remove a rival guild from the picture.   
+Haafingar :  The Dainty Sload : Frame a ship's captain to get revenge for a jilted merchant.
+Svar: According to the provided context, the leader of the Thieves Guild is Skyrim_Thieves_Guild_faction. Specifically, the text states:
+
+"The Ragged Flagon, headquarters of the Thieves Guild"
+
+So Skyrim_Thieves_Guild_faction is the leader of the Thieves Guild in the game.
+Which standing stone grants increased experience gain for magic skills?
+Bútur 1: name:Skyrim_The_Mage.md - ##_skyrim:_the_mage: |  | Standing Stone:  
+The Guardian Stones  
+(view on map)  
+:   
+Respawn Time :  10 days   
+Level :  Min: 6   
+Console Location Code(s)   
+GuardianStones   
+Region   
+Falkreath Hold  
+Location   
+East of Lake Ilinalta, along the road between Helgen and Riverwood.   
+Special Features   
+# of Clay DepositsHF :  1   
+  
+The Three Guardian Stones
+
+The Guardian Stones is a location which marks three Standing Stones located directly outside of Helgen and Riverwood.
+
+They are likely the first standing stones you will encounter, since they are on the path taken while being escorted by Ralof or Hadvar to Riverwood. The stones are The Mage Stone, The Thief Stone, and The Warrior Stone. If selected, they allow you to specialize in magic, stealth or combat skills respectively, by gaining 20% more experience in those skills. Archery is considered a stealth skill in this context. 
+
+  * The Mage Stone: Those under the sign of The Mage will learn allmagic skills 20% faster.
+  * The Thief Stone: Those under the sign of The Thief will learn allstealth skills 20% faster.
+  * The Warrior Stone: Those under the sign of The Warrior will learn allcombat skills 20% faster.
+Bútur 2: name:Skyrim_The_Mage_Stone.md - ##_skyrim:_the_mage_stone: |  | Standing Stone:  
+The Guardian Stones  
+(view on map)  
+:   
+Respawn Time :  10 days   
+Level :  Min: 6   
+Console Location Code(s)   
+GuardianStones   
+Region   
+Falkreath Hold  
+Location   
+East of Lake Ilinalta, along the road between Helgen and Riverwood.   
+Special Features   
+# of Clay DepositsHF :  1   
+  
+The Three Guardian Stones
+
+The Guardian Stones is a location which marks three Standing Stones located directly outside of Helgen and Riverwood.
+
+They are likely the first standing stones you will encounter, since they are on the path taken while being escorted by Ralof or Hadvar to Riverwood. The stones are The Mage Stone, The Thief Stone, and The Warrior Stone. If selected, they allow you to specialize in magic, stealth or combat skills respectively, by gaining 20% more experience in those skills. Archery is considered a stealth skill in this context. 
+
+  * The Mage Stone: Those under the sign of The Mage will learn allmagic skills 20% faster.
+  * The Thief Stone: Those under the sign of The Thief will learn allstealth skills 20% faster.
+  * The Warrior Stone: Those under the sign of The Warrior will learn allcombat skills 20% faster.
+Bútur 3: name:Skyrim_Standing_Stones_achievement.md - ##_skyrim:_standing_stones_(achievement): The three Guardian Stones
+
+The Standing Stones are magical stones found in the wilderness which can give your character special abilities and powers. There are thirteen Standing Stones in total, each associated with one of Tamriel's thirteen constellations. Usually, only one stone's effects can be active at a time, although you can change which stone is active at any time by activating a different Standing Stone. However, by wearing the Aetherial CrownDG, you may be affected by two Standing Stones concurrently. 
+
+The first three stones most players will encounter are the three Guardian Stones: the Mage Stone, the Thief Stone, and the Warrior Stone. These three stones are found together in a circle along the road to Riverwood near Lake Ilinalta. Selecting one of these stones allows you to effectively specialize in one group of skills. All of the other stones are located on their own. 
+
+Icon :  Stone Name  
+(IDs) | Description and Effects | Location   
+:  | :    
+:  The Apprentice Stone  
+Ability ID: 000e5f4e  
+Weakness ID: 0010e439 :  Those under the sign of The Apprentice recover Magicka faster, but are more susceptible to Magicka damage:
+
+  * Regenerate Magicka, 100% faster
+  * Weakness to Magic, 100%
+
+:  On an island in the Hjaalmarch marsh, just north of Fort Snowhawk, west-northwest of Morthal   
+Compass Marker visible from the East Empire Company Warehouse. (map).   
+:  The Atronach Stone  
+Ability ID: 000e5f51 :  Those under the sign of The Atronach absorb a portion of incoming spell damage and have a larger pool of Magicka, but recover it more slowly:
+
+  * Spell Absorption, 50%
+  * Damage Magicka Regen, 50%
+  * Fortify Magicka, 50 pts
+
+:  In the southernmost part of the hot springs of Eastmarch, northwest of Mistwatch and east-northeast of Darkwater Crossing (map).   
+:  The Lady Stone  
+Ability ID: 000e5f54 :  Those under the sign of The Lady regenerate Health and Stamina more quickly:
+
+  * Regenerate Health, 25% faster
+  * Regenerate Stamina, 25% faster
+
+:  On an island in Lake Ilinalta, directly north of Falkreath (map).   
+:  The Lord Stone  
+Ability ID: 000e5f58 :  Those under the sign of The Lord are more resistant to both Magicka and physical damage:
+
+  * Armor, 50 pts
+  * Resist Magic, 25%
+
+:  East of Morthal, northeast of the Shrine of Mehrunes Dagon, about one and a half times as far as Stonehills, up on the mountain. Follow the path starting north of the Hall of the Vigilant to the Shrine and the Stone (map).   
+:  The Lover Stone  
+Ability ID: 000e5f5a  
+Perk ID: 000e5f57 :  Those under the sign of The Lover always feel a Lover's Comfort (All skills improve faster):
+
+  * All skills improve 15% faster
+
+:  Northeast of Markarth (Follow road North), just north of Kolskeggr Mine (map).   
+:  The Mage Stone  
+Ability ID: 000e5f47  
+Perk ID: 000e5f49 :  Those under the sign of the Mage will learn all magic skills 20% faster:
+
+  * All magic skills improve 20% faster
+
+:  Southwest of Riverwood, by the roadside, one of the Guardian Stones (map).   
+:  The Ritual Stone  
+Ability ID: 000e7329 :  Once a day, those under the sign of The Ritual can reanimate nearby corpses to fight for them:
+
+  * Dead Thrall, 75 pts for 200 secs in 75 ft
+
+:  East of Whiterun, by the roadside, above the entrance to Graywinter Watch (map)  
+:  The Serpent Stone  
+Ability ID: 000e5f61 :  Once a day, those under the sign of The Serpent can use a ranged paralyzing poison on opponents:
+
+  * Paralyze, for 5 secs
+  * Damage Health, 5 pts for 5 secs
+
+:  Directly east of the College of Winterhold and northeast of the Wreck of The Pride of Tel Vos, on an icy island in the Sea of Ghosts (map).   
+:  The Shadow Stone  
+Ability ID: 000e732a :  Once a day, those under the sign of The Shadow can become invisible for an extended period:
+
+  * Invisibility, for 60 secs
+
+:  South of Riften, near Nightingale Hall (map).   
+:  The Steed Stone  
+Ability ID: 000e5f5e  
+Perk ID: 0001bac9 :  Those under the sign of The Steed can carry more and do not suffer a movement penalty from armor:
+
+  * Worn armor of all types is weightless and carries no speed penalty
+  * Fortify Carry Weight, 100 pts (only adds 50 points extra carry weight in survival mode)
+
+:  Northwest of Solitude, near Ironback Hideout (map).   
+:  The Thief Stone  
+Ability ID: 000e5f45  
+Perk ID: 000e5f46 :  Those under the sign of the Thief will learn all stealth skills 20% faster:
+
+  * All stealth skills (including Archery) improve 20% faster
+
+:  Southwest of Riverwood, by the roadside, one of the Guardian Stones (map).   
+:  The Tower Stone  
+Ability ID: 000e7328  
+Perk ID: 000e7326 :  Once a day, those under the sign of The Tower have the option to automatically open an Expert or lower lock:
+
+  * Unlock any lock, up to Expert in difficulty
+
+:  About halfway between Dawnstar and Winterhold, on a high snow-covered cliff (map).   
+:  The Warrior Stone  
+Ability ID: 000e5f4c  
+Perk ID: 000e5f4a :  Those under the sign of the Warrior will learn all combat skills 20% faster:
+
+  * All combat skills (excluding Archery) improve 20% faster
+
+:  Southwest of Riverwood, by the roadside, one of the Guardian Stones (map).
+Svar: The standing stone that grants increased experience gain for magic skills is the Guardian Stones. This stone appears in multiple locations throughout Skyrim, including the Guardian Stones itself, as well as the other Guardian Stones mentioned in the given context. By selecting one of these stones, players can specialize in specific magic skills, allowing for greater proficiency in certain areas of magic compared to when the stone is inactive.
+Which city is known as the “City of Kings”? 
+Bútur 1: name:Skyrim_Palace_of_the_Kings.md - palace_of_the_kings: 
+Bútur 2: name:Skyrim_Palace_of_the_Kings_Upstairs.md - palace_of_the_kings: 
+Bútur 3: name:Skyrim_Cities.md - ##_skyrim:_cities: Whiterun
+
+This page lists all the cities in Skyrim. Each city (with the exception of Raven Rock on Solstheim) is located in a different hold and is home to that hold's ruler, or jarl. The five largest cities (the major cities) are walled, allowing their maps (or cells as they are called in the Creation Kit) to be treated separately from the main map. Carriages are available for hire outside each major city to transport the player to any other major city. 
+
+Fast traveling to a major city places you just inside its main gate, but each major city also has a keep or palace where the jarl resides, which is a separate fast-travel destination and is listed below. Additionally, Riften has a third fast-travel destination once you have joined the Thieves Guild, namely the entrance to the guild's headquarters.
+Svar: Based on the provided context, the city known as the "City of Kings" is **Whiterun**. This can be inferred from the fact that it is listed first among the major cities in Skyrim, along with Raven Rock on Solstheim, and is specifically described as having a "riften," indicating it is a stronghold or fortress.
+Which Daedric Prince is associated with the Wabbajack? 
+Bútur 1: name:Skyrim_Drunk_Cultist.md - mehrunes_dagon: Mehrunes Dagon  
+(lore page)  
+  
+Race  :  Dremora  |  Gender  :  Male    
+Level  :  1   |  Class  :  Warrior   
+RefID :  N/A   |  BaseID :  000252aa   
+Other Information   
+Health :  50   |  Magicka :  50    
+Stamina :  50   
+Class Details  :  CombatWarrior1H  
+Morality :  No Crime   |  Aggression :  Unaggressive    
+  
+Mehrunes Dagon
+
+Mehrunes Dagon is a Daedric Prince who is encountered during the quest Pieces of the Past. As a reward for betraying Silus Vesuius at the Shrine of Mehrunes Dagon you will receive the Daedric artifact Mehrunes' Razor.
+Bútur 2: name:Skyrim_Mazgak.md - mehrunes_dagon: Mehrunes Dagon  
+(lore page)  
+  
+Race  :  Dremora  |  Gender  :  Male    
+Level  :  1   |  Class  :  Warrior   
+RefID :  N/A   |  BaseID :  000252aa   
+Other Information   
+Health :  50   |  Magicka :  50    
+Stamina :  50   
+Class Details  :  CombatWarrior1H  
+Morality :  No Crime   |  Aggression :  Unaggressive    
+  
+Mehrunes Dagon
+
+Mehrunes Dagon is a Daedric Prince who is encountered during the quest Pieces of the Past. As a reward for betraying Silus Vesuius at the Shrine of Mehrunes Dagon you will receive the Daedric artifact Mehrunes' Razor.
+Bútur 3: name:Skyrim_Hrothmund.md - mehrunes_dagon: Mehrunes Dagon  
+(lore page)  
+  
+Race  :  Dremora  |  Gender  :  Male    
+Level  :  1   |  Class  :  Warrior   
+RefID :  N/A   |  BaseID :  000252aa   
+Other Information   
+Health :  50   |  Magicka :  50    
+Stamina :  50   
+Class Details  :  CombatWarrior1H  
+Morality :  No Crime   |  Aggression :  Unaggressive    
+  
+Mehrunes Dagon
+
+Mehrunes Dagon is a Daedric Prince who is encountered during the quest Pieces of the Past. As a reward for betraying Silus Vesuius at the Shrine of Mehrunes Dagon you will receive the Daedric artifact Mehrunes' Razor.
+Svar: Based on the information provided in the three contexts:
+
+Context 1 mentions Mehrunes Dagon as a Daedric Prince who receives Mehrunes' Razor as a reward.
+
+Context 2 also refers to Mehrunes Dagon as a Daedric Prince who receives Mehrunes' Razor.
+
+Context 3 directly states that Mehrunes Dagon is a Daedric Prince who receives Mehrunes' Razor.
+
+Therefore, all three sources confirm that Mehrunes Dagon is associated with the Wabbajack (the Wabbajack is also known as the Wabbajack of Mehrunes Dagon).
+How do i create Daedric armor?
+Bútur 1: name:Skyrim_Daedric_Shield.md - contents: * 1 Daedric Smithing
+  * 2 Heavy Armor
+    * 2.1 Daedric Armor
+    * 2.2 Daedric Plate ArmorCC
+  * 3 Light Armor
+    * 3.1 Daedric Mail CC
+  * 4 Daedric Weapons
+  * 5 Notes
+  * 6 Bugs
+
+Daedric weapons and heavy armor are the best quality standard items available in the base game, with the Alternative Armors - Daedric Mail Creation adding a light armor variant. This page documents standard Daedric armor and weapons; the unique Daedric Artifacts obtained by completing Daedric Quests are documented on the Artifacts page. 
+
+Daedric items are made out of ebony, using identical materials to the equivalent ebony items in addition to a Daedra Heart. The heart imbues the items with the essence of the slain Daedra, as described in Heavy Armor Forging. 
+
+See the Lore article for general information.
+Bútur 2: name:Skyrim_Daedric_Dagger.md - contents: * 1 Daedric Smithing
+  * 2 Heavy Armor
+    * 2.1 Daedric Armor
+    * 2.2 Daedric Plate ArmorCC
+  * 3 Light Armor
+    * 3.1 Daedric Mail CC
+  * 4 Daedric Weapons
+  * 5 Notes
+  * 6 Bugs
+
+Daedric weapons and heavy armor are the best quality standard items available in the base game, with the Alternative Armors - Daedric Mail Creation adding a light armor variant. This page documents standard Daedric armor and weapons; the unique Daedric Artifacts obtained by completing Daedric Quests are documented on the Artifacts page. 
+
+Daedric items are made out of ebony, using identical materials to the equivalent ebony items in addition to a Daedra Heart. The heart imbues the items with the essence of the slain Daedra, as described in Heavy Armor Forging. 
+
+See the Lore article for general information.
+Bútur 3: name:Skyrim_Daedric_Armor.md - contents: * 1 Daedric Smithing
+  * 2 Heavy Armor
+    * 2.1 Daedric Armor
+    * 2.2 Daedric Plate ArmorCC
+  * 3 Light Armor
+    * 3.1 Daedric Mail CC
+  * 4 Daedric Weapons
+  * 5 Notes
+  * 6 Bugs
+
+Daedric weapons and heavy armor are the best quality standard items available in the base game, with the Alternative Armors - Daedric Mail Creation adding a light armor variant. This page documents standard Daedric armor and weapons; the unique Daedric Artifacts obtained by completing Daedric Quests are documented on the Artifacts page. 
+
+Daedric items are made out of ebony, using identical materials to the equivalent ebony items in addition to a Daedra Heart. The heart imbues the items with the essence of the slain Daedra, as described in Heavy Armor Forging. 
+
+See the Lore article for general information.
+Svar: To create Daedric armor, you first need to obtain the Daedric Heart. This can be done through completing Daedric Quests, where you will find the Daedric Artifact that grants you the Daedric Heart. Once you have this artifact, you can use it to craft your own Daedric Armor.
+
+Crafting a Daedric Shield:
+- Use the Daedric Smithing tool to create a shield.
+- Add the Daedric Armor section to your crafting inventory.
+- Place the shield in the Daedric Armor section.
+- Complete any additional quests or challenges required to refine and complete your Daedric Armor.
+
+Crafting a Daedric Dagger:
+- Similar to creating a shield, but instead of using the Daedric Smithing tool, use
+Who is the jarl of Riften?
+Bútur 1: name:Skyrim_Thane_of_the_Rift.md - quick_walkthrough: 1. Befriend the Jarl of Riften by dealing with the Skooma trade.
+  2. Complete three miscellaneous quests in Riften.
+  3. Purchase Honeyside.
+  4. Return to the Jarl for your reward.
+Bútur 2: name:Skyrim_Anuriel.md - dialogue: Her greetings: 
+
+    "Welcome to Mistveil Keep. I'm Jarl Laila's steward, Anuriel."
+    "As Riften's Steward I'm afraid I can provide only limited assistance, but speak your mind."
+    "If you're here to report any instances of corruption, be confident that we're handling these rumors accordingly."
+
+Greetings when exiled: 
+
+    "I'm afraid my days as the steward of Riften has come to an end."
+    "The Imperials now control Riften and have placed Maven Black-Briar on the Jarl's throne."
+    "Perhaps the Stormcloaks might rally to take back Riften one day. Only time will tell."
+
+When spoken to: 
+
+    What do you do around here?
+    "As steward, I serve as an intermediary between the Jarl and her subjects. I also handle the less important and day-to-day policies that effect daily life in Riften. Lately I've had my hands full suppressing these ridiculous accusations of corruption in the keep."
+
+    What are the rumors of corruption you mentioned?
+    "There are those that believe the Jarl does nothing for this city... that it's corrupt and run by the Black-Briar family. I can assure you that this is entirely false. We are fully in control of everything."
+
+    Tell me about the Thieves Guild.
+    "I'd hardly call them a Guild. More like unorganized rabble. In fact, I wouldn't say they were a threat at all. No, our resources should be spent on preparations for invasion."
+
+Her goodbye: 
+
+    "You're welcome in Riften as long as you continue to obey our laws."
+Bútur 3: name:Skyrim_I_Done_Got_Thaned.md - quick_walkthrough: 1. Befriend the Jarl of Riften by dealing with the Skooma trade.
+  2. Complete three miscellaneous quests in Riften.
+  3. Purchase Honeyside.
+  4. Return to the Jarl for your reward.
+Svar: The Jarl of Riften in the game Skyrim is named Skyrim_Thane_of_the_Rift. According to the context provided, the Jarl is tasked with providing limited assistance while completing miscellaneous quests in Riften. The Jarl deals with issues related to corruption and rumors in the town. The story mentions that the Jarl is a steward who handles less important and day-to-day policies, which suggests he is involved in maintaining the community's order and ensuring that matters are handled appropriately.
+What are the three standing stones called near Riverwood?
+Bútur 1: name:Skyrim_Falkreath_Hold.md - standing_stones_and_daedric_shrines: The Guardian Stones
+
+  * The Guardian Stones — A location which marks three Standing Stones located directly outside of Helgen and Riverwood. (map)
+    * The Mage Stone (map)
+    * The Thief Stone (map)
+    * The Warrior Stone (map)
+  * The Lady Stone — One of the thirteen Standing Stones scattered across Skyrim. (map)
+Bútur 2: name:Skyrim_The_Mage_Stone.md - ##_skyrim:_the_mage_stone: |  | Standing Stone:  
+The Guardian Stones  
+(view on map)  
+:   
+Respawn Time :  10 days   
+Level :  Min: 6   
+Console Location Code(s)   
+GuardianStones   
+Region   
+Falkreath Hold  
+Location   
+East of Lake Ilinalta, along the road between Helgen and Riverwood.   
+Special Features   
+# of Clay DepositsHF :  1   
+  
+The Three Guardian Stones
+
+The Guardian Stones is a location which marks three Standing Stones located directly outside of Helgen and Riverwood.
+
+They are likely the first standing stones you will encounter, since they are on the path taken while being escorted by Ralof or Hadvar to Riverwood. The stones are The Mage Stone, The Thief Stone, and The Warrior Stone. If selected, they allow you to specialize in magic, stealth or combat skills respectively, by gaining 20% more experience in those skills. Archery is considered a stealth skill in this context. 
+
+  * The Mage Stone: Those under the sign of The Mage will learn allmagic skills 20% faster.
+  * The Thief Stone: Those under the sign of The Thief will learn allstealth skills 20% faster.
+  * The Warrior Stone: Those under the sign of The Warrior will learn allcombat skills 20% faster.
+Bútur 3: name:Skyrim_The_Guardian_Stones.md - ##_skyrim:_the_guardian_stones: |  | Standing Stone:  
+The Guardian Stones  
+(view on map)  
+:   
+Respawn Time :  10 days   
+Level :  Min: 6   
+Console Location Code(s)   
+GuardianStones   
+Region   
+Falkreath Hold  
+Location   
+East of Lake Ilinalta, along the road between Helgen and Riverwood.   
+Special Features   
+# of Clay DepositsHF :  1   
+  
+The Three Guardian Stones
+
+The Guardian Stones is a location which marks three Standing Stones located directly outside of Helgen and Riverwood.
+
+They are likely the first standing stones you will encounter, since they are on the path taken while being escorted by Ralof or Hadvar to Riverwood. The stones are The Mage Stone, The Thief Stone, and The Warrior Stone. If selected, they allow you to specialize in magic, stealth or combat skills respectively, by gaining 20% more experience in those skills. Archery is considered a stealth skill in this context. 
+
+  * The Mage Stone: Those under the sign of The Mage will learn allmagic skills 20% faster.
+  * The Thief Stone: Those under the sign of The Thief will learn allstealth skills 20% faster.
+  * The Warrior Stone: Those under the sign of The Warrior will learn allcombat skills 20% faster.
+Svar: Based on the provided context, the three standing stones named near Riverwood are:
+
+1. **The Mage Stone** - Located at the eastern end of the path taken by Ralof or Hadvar to Riverwood.
+2. **The Thief Stone** - Situated at the northernmost point of the path.
+3. **The Warrior Stone** - Positioned just south of Riverwood.
+
+These stone formations mark the start points for the journey to Riverwood, offering the player an initial challenge as they explore the region around the river.
+How do i become a vampire?
+Bútur 1: name:Skyrim_Glitches.md - vampiric_werewolves: * It is possible to be both a vampire and a werewolf.
+    * The Unofficial Skyrim Patch, version 2.0.5, fixes this bug. 
+  * There are a few problems associated with using this exploit. Notably, the Necromage perk does not affect your skills, as you are not undead (once you use Beastform after becoming a vampire).
+
+    
+
+  1. Progress through the Companions questline until The Silver Hand, but do not enter the Underforge.
+  2. Contract Sanguinare Vampiris.
+  3. Return and enter the Underforge.
+  4. Drink the blood and become a werewolf.
+  5. Wait three days to complete the transformation into a vampire.
+
+  * Another method that requires Dawnguard:
+
+    
+
+  1. Go through the Dawnguard questline and become a vampire. You need to turn into a Vampire Lord and revert back at least once. Continue on the questline until you are sent to look for the elder scrolls with Serana.
+  2. Join the Companions and progress along their questline until you arrive in the Underforge to become a werewolf. Make sure Serana is with you.
+  3. Drink the blood of the beast and hit the button to transform into a Vampire Lord at the same time. You will turn into a werewolf and then a Vampire Lord immediately after that. (Save before you attempt this, as it requires precise timing to work at all and can go horribly wrong on failed attempts)
+  4. Revert back to human form and ask Serana to turn you into a vampire again to make the hybridization permanent.
+
+(The exact timing of a failed attempt can cause a number of variables that become more dynamic on larger or modified saves. This can result in a temporary or unfortunately permanent transformation, which will make your character have a glitchy avatar of a werewolf or vampirelord overlapping with your character. While this glitch makes a character attack with both bodies at once, which can make for a very potent offense, the glitch also make many areas inaccessible and makes first person play almost impossible, since you can only see through the mouth of the larger avatar. It seems that this glitch varies greatly depending on the exact timing of the transformation attempt, and can vary in how perks and abilities apply. This seems to work better with werewolves than vampire lords, since as a permanent vampire lord you have no access to your blood magic or vampire powers until you transform, and can result in menu options not working or not being accesible.) 
+
+  * Note that while you are in werewolf form, you will lose your vampiric powers but retain its weaknesses.
+Bútur 2: name:Skyrim_Fura_Bloodmouth.md - dialogue: She may greet you by saying: 
+
+    "I don't converse with my meals." (If you are not a vampire)
+    "I wish Orthjolf and Vingalmo would just get it over with and kill each other. I'm tired of listening to them."
+    "None can deny your power now."
+    "Why worry about who has the bigger chair at the table when there's more than enough to go around?"
+
+If you approach her in Vampire Lord form: 
+
+    "Parading around in that form won't do you any good here."
+
+If you have been cured of vampirism before Kindred Judgment: 
+
+    "It's disrespectful and dangerous to walk around here mortal. What were you thinking? You'd best beg Lord Harkon to turn you at once. Although you do smell delicious..."
+
+If you have been cured of vampirism after Kindred Judgement: 
+
+    "If you're not one of us, you're just another piece of meat. Talk to Serana, and decide which you want to be."
+
+When spoken to she can be asked questions: 
+
+    I need training for Two-Handed weapons.
+
+    "I can crush skulls with the best of them. Let me show you a few things." (If your Two-handed skill is less than 90)
+    "You're pretty good. I don't think there's anything more you can learn from me." (If your Two-handed skill is 90 or above)
+
+    Who are the Dawnguard?
+    "A more "serious" group of the Vigilants of Stendarr. Sometimes when you skin a skeever, you find he has a more aggressive mate. The Dawnguard apparently like killing vampires. Almost as much as we like killing them."
+
+    How do you serve Lord Harkon?
+    "Simple. He says 'kill', I kill. Sometimes he doesn't even have to say it."
+
+In combat, Fura may use taunts such as: 
+
+    "I'm going to rend you limb from limb!"
+    "Every last drop of your blood is mine!"
+    "You've no chance against a true vampire!"
+Bútur 3: name:Skyrim_Vampire_Cattle.md - ##_skyrim:_vampire_cattle: Vampire Cattle   
+  
+Added by  :  Dawnguard  
+Location  :  Volkihar Keep  
+Race  :  Nord  |  Gender  :  Male    
+Level  :  1   |  Class  :  Dremora Class   
+RefID :  N/A   |  BaseID :  xx0162F9   
+Other Information   
+Health :  50   |  Magicka :  50    
+Stamina :  50   
+Morality :  No Crime   |  Aggression :  Unaggressive    
+Voice Type  :  MaleNord  
+Faction(s) :  DLC1VampireFeedNoCrimeFaction; Vampire Thrall Faction  
+  
+Female vampire cattle in her cell
+
+Vampire Cattle are NPCs found in Volkihar Keep. They are used to feed the vampires within the castle. They wear roughspun tunics and footwraps. They frequently moan in pain and ask to be freed, but there is no way to help them. 
+
+Lord Harkon tells you, once you agree to become a vampire, that he can provide all the feeding you will require. There are usually two vampires feeding on a cattle each in the lobby. These cattle are impossible to feed on; however, you may feed on others in another area of the Castle Volkihar Keep. You may feed more than once if you would like to. It is not possible to kill them by feeding on them.
+Svar: To become a vampire, follow these steps based on the provided context:
+
+1. **Contract Sanguinare Vampiris**: The Official Skyrim Patch includes a fix for this issue. After using Beastform, return to the Underforge to become a vampire lord.
+
+2. **Return and Enter the Underforge**: Ensure you are in the Underforge and drink the blood of the beast before transforming into a vampire lord.
+
+3. **Revert Back to Human Form**: Once you reach the Underforge, save your current state and revert back to human form.
+
+4. **Wait Three Days to Complete Transformation**: After completing the transformation, wait for three days to ensure you are ready to begin the process of becoming a vampire.
+
+By following these steps, you should be able to successfully become a vampire according
+Which quest introduces Serana? 
+Bútur 1: name:Skyrim_Unseen_Visions.md - talk_to_serana: Once the vision fades, Serana will immediately come over and ask if everything is alright. She will ask about Auriel's Bow's location and you will be able to point her to Darkfall Cave thanks to your vision, thus completing the quest. As you leave the cavern, you will be ambushed by Dawnguard Soldiers or Vampires, depending on which faction you have sided with.
+Bútur 2: name:Skyrim_Serana.md - related_quests: * Awakening : Find out what the vampires are looking for.
+  * Bloodline : Choose your side!
+  * Prophet (Dawnguard) : Find and rescue a Moth Priest from the vampires.
+  * Prophet (Vampire) : The time of prophecy has arrived! Locate a Moth Priest for the vampires.
+  * Chasing Echoes : Explore Castle Volkihar.
+  * Beyond Death : Search for Valerica in the Soul Cairn.
+  * Unseen Visions : Perform a ceremony to read the Elder Scroll.
+  * Touching the Sky : Find and retrieve Auriel's Bow.
+  * Kindred Judgment : Confront Lord Harkon.
+Bútur 3: name:Skyrim_Serana.md - quest-related_events: 
+Svar: Based on the provided context, the quest that introduces Serana is "Touching the Sky". This quest involves performing a ceremony to read the Elder Scroll, which is part of the quests related to the character Serana in the game Skyrim.
+How to cure vampirism?
+Bútur 1: name:Skyrim_Vampirism.md - curing_vampirism: If you contract Sanguinare Vampiris during battle with a vampire, you won't become a vampire yourself for three days. Until then, you can rid yourself of the disease with a Cure Disease potion, any blessing, or by consuming Hawk Feathers. 
+
+After the first three days of infection, or if you obtained your vampirism from Lord Harkon or Serana, the task of finding a cure becomes more complex. While visiting any inn, talk to the innkeeper, or talk to one of the members of the Dawnguard. Ask them for rumors and they will send you to Morthal to speak to a man named Falion. This will start the quest Rising at Dawn. However, if you are in the last stage of vampirism (and do not have Dawnguard installed), the innkeepers may attack you on sight, so you may need to feed in order to lessen the effects of your vampirism, making NPCs friendly again. 
+
+You can also cure your vampirism by becoming a werewolf through the Companions faction. Once you contract lycanthropy, you gain a 100% resistance to disease and cannot be re-infected with Sanguinare Vampiris by normal means while a werewolf. 
+
+With Dawnguard installed, if you were previously a werewolf at some point prior to becoming a vampire, you can ask Aela to restore your lycanthropy once.
+Bútur 2: name:Skyrim_Vampire_Mastered.md - curing_vampirism: If you contract Sanguinare Vampiris during battle with a vampire, you won't become a vampire yourself for three days. Until then, you can rid yourself of the disease with a Cure Disease potion, any blessing, or by consuming Hawk Feathers. 
+
+After the first three days of infection, or if you obtained your vampirism from Lord Harkon or Serana, the task of finding a cure becomes more complex. While visiting any inn, talk to the innkeeper, or talk to one of the members of the Dawnguard. Ask them for rumors and they will send you to Morthal to speak to a man named Falion. This will start the quest Rising at Dawn. However, if you are in the last stage of vampirism (and do not have Dawnguard installed), the innkeepers may attack you on sight, so you may need to feed in order to lessen the effects of your vampirism, making NPCs friendly again. 
+
+You can also cure your vampirism by becoming a werewolf through the Companions faction. Once you contract lycanthropy, you gain a 100% resistance to disease and cannot be re-infected with Sanguinare Vampiris by normal means while a werewolf. 
+
+With Dawnguard installed, if you were previously a werewolf at some point prior to becoming a vampire, you can ask Aela to restore your lycanthropy once.
+Bútur 3: name:Skyrim_Champion_of_the_Night.md - curing_vampirism: If you contract Sanguinare Vampiris during battle with a vampire, you won't become a vampire yourself for three days. Until then, you can rid yourself of the disease with a Cure Disease potion, any blessing, or by consuming Hawk Feathers. 
+
+After the first three days of infection, or if you obtained your vampirism from Lord Harkon or Serana, the task of finding a cure becomes more complex. While visiting any inn, talk to the innkeeper, or talk to one of the members of the Dawnguard. Ask them for rumors and they will send you to Morthal to speak to a man named Falion. This will start the quest Rising at Dawn. However, if you are in the last stage of vampirism (and do not have Dawnguard installed), the innkeepers may attack you on sight, so you may need to feed in order to lessen the effects of your vampirism, making NPCs friendly again. 
+
+You can also cure your vampirism by becoming a werewolf through the Companions faction. Once you contract lycanthropy, you gain a 100% resistance to disease and cannot be re-infected with Sanguinare Vampiris by normal means while a werewolf. 
+
+With Dawnguard installed, if you were previously a werewolf at some point prior to becoming a vampire, you can ask Aela to restore your lycanthropy once.
+Svar: To cure vampirism, it is recommended to seek out the assistance of a member of the Dawnguard faction. The Dawnguard is known for its ability to restore the immune system and resist disease, which can help in eliminating the effects of vampirism. Additionally, the Dawnguard's presence in an inn or other locations may provide a source of supplies and companionship that can aid in the recovery process. It is important to note that without the installation of the Dawnguard, the user may face challenges in finding a cure, as they may encounter attacks from the innkeepers who are wary of vampires.
+What races can i play as?
+Bútur 1: name:Skyrim_Races.md - non-playable_races: Other NPC races exist in the game but are not available for you to play: 
+
+  * Child (including Breton, Imperial, Nord, and Redguard children)
+  * Elder ("Old People Race" in the game data)
+  * Dark SeducerCC
+  * Dremora
+  * Golden SaintCC
+  * Invisible Race (the race of the Ancient DragonbornDB)
+  * Mannequin (categorized as an NPC race to allow mannequins to equip the armors and outfits they are meant to display)
+  * Snow ElfDG
+Bútur 2: name:Skyrim_Invisible_Race.md - non-playable_races: Other NPC races exist in the game but are not available for you to play: 
+
+  * Child (including Breton, Imperial, Nord, and Redguard children)
+  * Elder ("Old People Race" in the game data)
+  * Dark SeducerCC
+  * Dremora
+  * Golden SaintCC
+  * Invisible Race (the race of the Ancient DragonbornDB)
+  * Mannequin (categorized as an NPC race to allow mannequins to equip the armors and outfits they are meant to display)
+  * Snow ElfDG
+Bútur 3: name:Skyrim_Races.md - ##_skyrim:_races: There are ten playable races in Skyrim , each with its own unique abilities and powers, as well as a +10 bonus to one skill and +5 bonuses to five other skills. Race is the only choice during the character creation process that has an effect on your character's skills and abilities. 
+
+The following table summarizes the differences between the ten playable races. Full details on all racial abilities and powers are provided on the individual race pages. 
+
+Race  | Male  | Female  | Abilities  | Powers  | Initial Bonuses  | Height (M)  | Height (F)   
+|||||||  
+Argonian  
+00013740 :    |   :   
+
+  * Resist Disease 50%
+  * Waterbreathing
+  * Higher unarmed damage
+  * SurvivalCC: Weakness to Cold 25%. May consume raw meat without food poisoning.
+
+:  Histskin
+
+  * Recover health 10x faster for 60 seconds, once per day
+
+:  
+
+  * +10 Lockpicking
+  * +5 Alteration, Light Armor, Pickpocket, Restoration, Sneak
+
+| 1.01  | 1.00   
+Breton  
+00013741 :    |   :   
+
+  * Resist Magic 25%
+
+:  Dragonskin
+
+  * Absorb 50% of the magicka from hostile spells for 60 seconds, once per day
+
+:  
+
+  * +10 Conjuration 
+  * +5 Alchemy, Alteration, Illusion, Restoration, Speech
+  * Additional Spell:Conjure Familiar
+
+| 1.00  | 0.95   
+Dark Elf  
+00013742 :    |   :   
+
+  * Resist Fire 50%
+  * SurvivalCC: Resist Fatigue 25%
+
+:  Ancestor's Wrath
+
+  * Opponents getting too close take 8 points of fire damage per second for 60 seconds, once per day
+
+:  
+
+  * +10 Destruction
+  * +5 Alchemy, Alteration, Illusion, Light Armor, Sneak
+  * Additional Spell:Sparks
+
+| 1.00  | 1.00   
+High Elf  
+00013743 :    |   :   
+
+  * +50 Magicka
+  * SurvivalCC: Resist Fatigue 25%
+
+:  Highborn
+
+  * Regenerate magicka 25x faster for 60 seconds, once per day
+
+:  
+
+  * +10 Illusion
+  * +5 Alteration, Conjuration, Destruction, Enchanting, Restoration
+  * Additional Spell:Fury
+
+| 1.08  | 1.08   
+Imperial  
+00013744 :    |   :   
+
+  * Imperial Luck: Imperials always find more gold.
+
+:  Voice of the Emperor
+
+  * Calms nearby people for 60 seconds, once per day
+
+:  
+
+  * +10 Restoration
+  * +5 Block, Destruction, Enchanting, Heavy Armor, One-handed
+
+| 1.00  | 1.00   
+Khajiit  
+00013745 :    |   :   
+
+  * Claws: Claws do 12 damage (see notes).
+  * SurvivalCC: +15 Warmth. May consume raw meat without food poisoning.
+
+:  Night Eye
+
+  * Improved night vision for 60 seconds, can be used multiple times a day.
+
+:  
+
+  * +10 Sneak
+  * +5 Alchemy, Archery, Lockpicking, Pickpocket, One-handed
+
+| 1.00  | 0.95   
+Nord  
+00013746 :    |   :   
+
+  * Resist Frost 50%
+  * SurvivalCC: +25 Warmth
+
+:  Battle Cry
+
+  * Targets flee for 30 seconds, once per day
+
+:  
+
+  * +10 Two-handed
+  * +5 Block, Light Armor, One-handed, Smithing, Speech
+
+| 1.03  | 1.03   
+Orc  
+00013747 :    |   :   
+
+  * SurvivalCC: Resist Fatigue and Hunger by 15%. +10 Warmth.
+
+:  Berserker Rage
+
+  * You take half damage and do double damage for 60 seconds, once per day
+
+:  
+
+  * +10 Heavy Armor
+  * +5 Block, Enchanting, One-handed, Smithing, Two-handed
+  * Additional status: Blood-Kin
+
+| 1.045  | 1.045   
+Redguard  
+00013748 :    |   :   
+
+  * Resist Poison 50%
+
+:  Adrenaline Rush
+
+  * Stamina regenerates 10x faster for 60 seconds, once per day
+
+:  
+
+  * +10 One-handed
+  * +5 Alteration, Archery, Block, Destruction, Smithing
+
+| 1.005  | 1.00   
+Wood Elf  
+00013749 :    |   :   
+
+  * Resist Poison 50%
+  * Resist Disease 50%
+  * SurvivalCC: Resist Fatigue 25%
+
+:  Command Animal
+
+  * Make an animal an ally for 60 seconds, once per day
+
+:  
+
+  * +10 Archery
+  * +5 Alchemy, Light Armor, Lockpicking, Pickpocket, Sneak
+
+| 0.98  | 1.00
+Svar: As mentioned in the first context, there are ten playable races in Skyrim. The ten races include Argonian, Breton, Dark Elf, High Elf, Imperial, Khajiit, Nord, Orc, Redguard, and Wood Elf. Each race has its unique abilities and powers, which can be accessed through character creation in the game.
+Who were the dwemer?
+Bútur 1: name:Skyrim_Dwemer.md - ##_skyrim:_dwemer: A Dwarven ghost
+
+The Dwemer (called Dwarves by men) are an extinct race of elves known for their technologically advanced society. Dwarven society began in Morrowind and spread to Skyrim, Solstheim, Hammerfell, and beyond. They disappeared suddenly in 1E 700, leaving behind Dwarven ruins inhabited by their still-functioning automatons. 
+
+For more information, see the lore article. 
+
+Only one Dwemer appears in Skyrim, added by the Ghosts of the Tribunal Creation: the briefly-seen Ghost encountered within Fahlbtharz Forge on Solstheim. Technically this ghost's race is Dark Elf, as the Dwemer do not exist as a distinct race in Skyrim.
+Bútur 2: name:Skyrim_Warped_Dwarven_Spider.md - ##_skyrim:_warped_dwarven_spider: A group of automatons advancing on their target
+
+Dwarven Automatons (also known as Dwemer Constructs and Dwemer Animunculi) are various ancient, robot-like machines encountered in Dwarven Ruins across Skyrim and Solstheim. Despite the disappearance of the Dwemer after the events of the War of the First Council, their creations remain functional in long lost cities beneath the ground, performing whatever operation their masters tasked them with.
+Bútur 3: name:Skyrim_Dwarven_Spider.md - ##_skyrim:_dwarven_spider: A group of automatons advancing on their target
+
+Dwarven Automatons (also known as Dwemer Constructs and Dwemer Animunculi) are various ancient, robot-like machines encountered in Dwarven Ruins across Skyrim and Solstheim. Despite the disappearance of the Dwemer after the events of the War of the First Council, their creations remain functional in long lost cities beneath the ground, performing whatever operation their masters tasked them with.
+Svar: According to the provided context, the Dwemer were a species of Dwarven ghosts that existed during the time of the War of the First Council, which occurred between 1E 695 and 1E 700 CE. These ghostly beings were remnants of a previous civilization that had mysteriously vanished without a trace. Their technology was advanced, and they lived in societies that were technologically sophisticated compared to those found in other parts of the world at the same time period.
+How do i star the dragonborn questline?
+Bútur 1: name:Skyrim_Dragonborn_quest.md - detailed_walkthrough: 
+Bútur 2: name:Skyrim_Dragonborn.md - quest_information: * Quests — Walkthroughs for new quests
+Bútur 3: name:Skyrim_Main_Quest.md - ##_skyrim:_main_quest: Skyrim's main quest consists of seventeen required quests and two optional quests. During these quests you discover your heritage as the Dovahkiin, learn why dragons have returned to the world, and find a way to respond to the dragon threat. Completing the main quest will take approximately 15-30 hours depending on your character's level. Eight achievements (170 points; 7 Bronze and 1 Gold) are directly tied to completing the main quest; in addition, several dragon shout-related achievements are inevitably unlocked during the quests. Quests belonging to the main quest are marked in your journal by the dragon head knotwork, which is pictured above. 
+
+  1. Unbound : Escape Imperial custody and a dragon attack. ( 10 pts/Bronze)
+  2. Before the Storm : Inform the Jarl of Whiterun about the dragon attack on Helgen.
+  3. Bleak Falls Barrow : Retrieve the Dragonstone. ( 10 pts/Bronze)
+  4. Dragon Rising : Investigate a dragon sighting near Whiterun.
+  5. The Way of the Voice : Meet the Greybeards. ( 20 pts/Bronze)
+  6. The Horn of Jurgen Windcaller : Retrieve a Greybeard artifact from Ustengrav.
+  7. A Blade in the Dark : Prove you are Dragonborn to Delphine by slaying the dragon Sahloknir.
+  8. Diplomatic Immunity : Infiltrate a party at the Thalmor Embassy. ( 20 pts/Bronze)
+  9. A Cornered Rat : Locate Esbern.
+  10. Alduin's Wall : Locate the prophecy within Sky Haven Temple. ( 20 pts/Bronze)
+  11. The Throat of the World : Receive a lesson from Paarthurnax.
+  12. Elder Knowledge : Recover an Elder Scroll to learn an Ancient Secret. ( 20 pts/Bronze)
+  13. Alduin's Bane : Exploit the Time-Wound to learn Dragonrend and defeat Alduin at the Throat of the World.
+  14. The Fallen : Capture and interrogate an ally of Alduin. ( 20 pts/Bronze) 
+     * (optional) Season Unending : Enforce a ceasefire to secure Dragonsreach.
+     * (optional) Paarthurnax : Deal with a potential threat.
+  15. The World-Eater's Eyrie : Battle through Skuldafn to reach Alduin's portal to Sovngarde.
+  16. Sovngarde : Seek out Alduin within Sovngarde.
+  17. Dragonslayer : Put an end to the World-Eater. ( 50 pts/Gold)
+Svar: To star the Dragonborn questline, follow these steps:
+
+1. **Unlock the quest**: First, ensure that you have completed all prerequisites for the Dragonborn quest. This includes:
+   - Unlocking the Dragonborn quest via Skyrim_Dragonborn.md
+   - Completing the Skyrim_Dragonborn quest_information
+
+2. **Find the dragon**: Once the Dragonborn quest is complete, search for the dragon at its base location.
+
+3. **Retrieve the dragon stone**: Use the Skyrim_Dragonborn.md guide to retrieve the Dragonstone, which can be found in the dragon's lair.
+
+4. **Investigate the dragon sighting**: Follow the Skyrim_Dragonborn.md guide to investigate a dragon sighting near Whiterun. Look for clues related to the dragon's
