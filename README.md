@@ -1,1 +1,2 @@
 # Skyrim spjallmenni
+Þetta verkefni snýst um að hanna RAG spjallmenni sem svarar almennum spurningum úr tölvuleiknum The Elder Scrolls V: Skyrim. Spjallmennið á að geta svarað spurningum um helstu virkni, quest, hluti, sögu og persónur í leiknum en orðar upplýsingarnar á mannlegan hátt en ekki bara að birta gögn. Þetta er einfalt forrit með command line interface í python þar sem hægt er að senda inn eina spurningu og fá svar til baka. 
